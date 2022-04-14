@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+
+.color{
+    background-color: rgba(230, 14, 158, 0.281);
+
+}
+.intro{
+    font-size:medium;
+    font-family:monospace;
+    }
+   
+    body{
+        color: rgba(248, 248, 248, 0);
+    }
+
+
+.Tableft{
+    padding-left:100px;
+    padding-right:100px;
+}

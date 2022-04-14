@@ -1,0 +1,66 @@
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+/* This will be applied to the about and index pages*/
+
+li{
+    padding-bottom: 25px;
+
+}
+
+
+
+.headCenter{
+    text-align: center;
+
+}
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.paddingSpace{
+    padding-bottom:25px;
+
+}
+
+.color{
+    background-color:rgba(22, 11, 19, 0.842);
+
+}
+
+body{
+    background-color: rgba(233, 24, 222, 0.849);
+}
+
+.intro{
+ font-size:medium;
+ font-family:monospace;
+ }
+
+ body{
+     color: #a7019ef1;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: larger;
+ }
+  
+
+ .headCenter{
+     text-align: center;
+ }
+
+ 
+ 
+.header{
+    resize: horizontal;
+}
+.footer{
+    resize: horizontal;
+}
